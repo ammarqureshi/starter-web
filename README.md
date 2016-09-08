@@ -1,3 +1,5 @@
+#Copyright Git Training
+
 # Introduction
 Hi, this is a basic tutorial of git basics
 
