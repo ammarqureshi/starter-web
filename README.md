@@ -1,5 +1,8 @@
 #Copyright Git Training
 
+#Contributors
+Ammar Qureshi, Mark Zuckenberg
+
 # Introduction
 Hi, this is a basic tutorial of git basics
 
@@ -16,3 +19,5 @@ Sample website with plenty of files for demos
 
 ## How to contribute
 fork and clone this repository. Feel free to contribute.
+
+
